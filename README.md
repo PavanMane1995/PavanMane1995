@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanMane1995
 - 👀 I’m interested in programming/coding
-- 🌱 I’m currently learning Reactjs and webflux
+- 🌱 I’m currently learning Reactjs, webflux, DS and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
